@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local playerGui = LocalPlayer:WaitForChild("PlayerGui")
 
-local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/relr-prog/relr-prog_project-DO-NOT-STEAL-public_githubproject-TT-nyx_kayrouz2.2-pls-use-this-scirpt-properly/refs/heads/main/relr_prog-project"
+local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/relr-prog/qmain/refs/heads/main/advqmain"
 local MAX_RETRIES = 3
 local RETRY_DELAY = 2
 
